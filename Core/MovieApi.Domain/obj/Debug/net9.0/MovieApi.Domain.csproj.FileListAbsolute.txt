@@ -1,0 +1,12 @@
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.sourcelink.json
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\nuray\repos\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
