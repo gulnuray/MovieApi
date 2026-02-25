@@ -171,3 +171,6 @@ C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Movi
 C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\MediatR.dll
+C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\nuray\repos\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
